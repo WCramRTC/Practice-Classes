@@ -1,0 +1,21 @@
+C:\School\Programming 122\Practice Classes\bin\Debug\net6.0-windows\Practice Classes.exe
+C:\School\Programming 122\Practice Classes\bin\Debug\net6.0-windows\Practice Classes.deps.json
+C:\School\Programming 122\Practice Classes\bin\Debug\net6.0-windows\Practice Classes.runtimeconfig.json
+C:\School\Programming 122\Practice Classes\bin\Debug\net6.0-windows\Practice Classes.dll
+C:\School\Programming 122\Practice Classes\bin\Debug\net6.0-windows\Practice Classes.pdb
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.csproj.AssemblyReference.cache
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\App.g.cs
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes_MarkupCompile.cache
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes_MarkupCompile.lref
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\MainWindow.baml
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.g.resources
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.AssemblyInfoInputs.cache
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.AssemblyInfo.cs
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.csproj.CoreCompileInputs.cache
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.dll
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\refint\Practice Classes.dll
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.pdb
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.genruntimeconfig.cache
+C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\ref\Practice Classes.dll
