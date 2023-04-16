@@ -19,3 +19,24 @@ C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\refint\Pract
 C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.pdb
 C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\Practice Classes.genruntimeconfig.cache
 C:\School\Programming 122\Practice Classes\obj\Debug\net6.0-windows\ref\Practice Classes.dll
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\bin\Debug\net6.0-windows\Practice Classes.exe
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\bin\Debug\net6.0-windows\Practice Classes.deps.json
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\bin\Debug\net6.0-windows\Practice Classes.runtimeconfig.json
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\bin\Debug\net6.0-windows\Practice Classes.dll
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\bin\Debug\net6.0-windows\Practice Classes.pdb
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes.csproj.AssemblyReference.cache
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\App.g.cs
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes_MarkupCompile.cache
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes_MarkupCompile.lref
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\MainWindow.baml
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes.g.resources
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes.AssemblyInfoInputs.cache
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes.AssemblyInfo.cs
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes.csproj.CoreCompileInputs.cache
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes.dll
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\refint\Practice Classes.dll
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes.pdb
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\Practice Classes.genruntimeconfig.cache
+C:\School\Classes\Programming_124\S23\Student_Assignments\Practice-Classes\obj\Debug\net6.0-windows\ref\Practice Classes.dll

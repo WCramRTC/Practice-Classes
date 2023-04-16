@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -40,38 +42,35 @@ namespace Practice_Classes
         {
             InitializeComponent();
 
-           //IMAGES added onto GUI 
+            //IMAGES added onto GUI 
+            PopulateImages();
+        }
 
+        public void PopulateImages()
+        {
+            DisplayImage("skyandcar.jpg", imgCar);
+            DisplayImage("unsplashbike.jpg", imgBike);
+            DisplayImage("makeupunsplash.jpg", imgMakeup);
+            DisplayImage("unsplashsa.jpg", imgspirit);
+            DisplayImage("soup.jpg", imgSoup);
+        }
+
+        public string FormatImagePath(string imageName)
+        {
+            string ogPath = Directory.GetCurrentDirectory();
+            string nagivateToImageDirectory = @"\..\..\..\Images\";
+            string fullPath = ogPath + nagivateToImageDirectory;
+            return fullPath + $"{imageName}";
+        }
+
+        public void DisplayImage(string image, Image imgBox)
+        {
             BitmapImage bitmap = new BitmapImage();
             bitmap.BeginInit();
-            bitmap.UriSource = new Uri(@"C:\School\Programming 122\Practice Classes\skyandcar.jpg");
+            string path = FormatImagePath(image);
+            bitmap.UriSource = new Uri($@"{path}");
             bitmap.EndInit();
-            imgCar.Source = bitmap;
-
-            BitmapImage bitmap2 = new BitmapImage();
-            bitmap2.BeginInit();
-            bitmap2.UriSource = new Uri(@"C:\School\Programming 122\Practice Classes\unsplashbike.jpg");
-            bitmap2.EndInit();
-            imgBike.Source = bitmap2;
-
-            BitmapImage bitmap3 = new BitmapImage();
-            bitmap3.BeginInit();
-            bitmap3.UriSource = new Uri(@"C:\School\Programming 122\Practice Classes\makeupunsplash.jpg");
-            bitmap3.EndInit();
-            imgMakeup.Source = bitmap3;
-
-            BitmapImage bitmap4 = new BitmapImage();
-            bitmap4.BeginInit();
-            bitmap4.UriSource = new Uri(@"C:\School\Programming 122\Practice Classes\unsplashsa.jpg");
-            bitmap4.EndInit();
-            imgspirit.Source = bitmap4;
-
-            BitmapImage bitmap5 = new BitmapImage();
-            bitmap5.BeginInit();
-            bitmap5.UriSource = new Uri(@"C:\School\Programming 122\Practice Classes\soup.jpg");
-            bitmap5.EndInit();
-            imgSoup.Source = bitmap5;
-
+            imgBox.Source = bitmap;
         }
 
         private void btnHerCar_Click(object sender, RoutedEventArgs e) // Button  for her car , to prompt data for Class CAR 
